@@ -1,0 +1,27 @@
+{
+  "name": "op-tenerife",
+  "version": "1.0.0",
+  "description": "Project voor de eindopdracht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Arntje/OpTenerife.git"
+  },
+  "keywords": [
+    "project",
+    "website",
+    "eindopdracht"
+  ],
+  "author": "Arnt Braakenburg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arntje/OpTenerife/issues"
+  },
+  "homepage": "https://github.com/Arntje/OpTenerife#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
